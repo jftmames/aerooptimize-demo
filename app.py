@@ -68,5 +68,5 @@ kpi3.metric("🌱 CO₂ evitado", "890 kg", "↓")
 # Footer
 st.markdown("""
 ---
-#### Aplicación demo desarrollada con [Streamlit](https://streamlit.io/) | [Repositorio en GitHub](https://github.com/tuusuario/aerooptimize-demo)
+#### Aplicación demo desarrollada con [Streamlit](https://streamlit.io/) | [Repositorio en GitHub](https://github.com/jftmames/aerooptimize-demo)
 """)
